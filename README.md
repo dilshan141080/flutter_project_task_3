@@ -19,3 +19,6 @@ Follow these steps to run the project on your local machine:
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/dilshan141080/flutter_project_task3.git
+## 📷 Screenshots
+
+![App Preview](screenshots/adding_tasks.png)
