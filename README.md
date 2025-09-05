@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# Task Management App
+
+## 📌 Overview
+A simple Flutter app to manage daily tasks with:
+- Add, delete, and mark tasks as complete
+- Data persistence using SharedPreferences
+- Custom app bar with add button
+- Simple UI with Flutter Icons
+
+## 🚀 Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/task_management_app.git
